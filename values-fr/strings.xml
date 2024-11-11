@@ -260,22 +260,22 @@
     <string name="proxy_url">URL du proxy</string>
     <string name="restart_to_take_effect">Redémarrer pour prendre effet</string>
 
-    <string name="player_and_audio">Player and audio</string>
-    <string name="audio_quality">Audio quality</string>
+    <string name="player_and_audio">Lecteur et Audio</string>
+    <string name="audio_quality">Qualité audio</string>
     <string name="audio_quality_auto">Auto</string>
-    <string name="audio_quality_high">High</string>
-    <string name="audio_quality_low">Low</string>
-    <string name="queue">Queue</string>
-    <string name="persistent_queue">Persistent queue</string>
-    <string name="persistent_queue_desc">Restore your last queue when the app starts</string>
-    <string name="auto_load_more">Auto load more songs</string>
-    <string name="auto_load_more_desc">Automatically add more songs when the end of the queue is reached, if possible</string>
-    <string name="skip_silence">Skip silence</string>
-    <string name="audio_normalization">Audio normalization</string>
-    <string name="auto_skip_next_on_error">Auto skip to next song when error occurs</string>
-    <string name="auto_skip_next_on_error_desc">Ensure your continuous playback experience</string>
-    <string name="stop_music_on_task_clear">Stop music on task clear</string>
-    <string name="equalizer">Equalizer</string>
+    <string name="audio_quality_high">Élevée</string>
+    <string name="audio_quality_low">Faible</string>
+    <string name="queue">File d'attente</string>
+    <string name="persistent_queue">File d'attente persistante</string>
+    <string name="persistent_queue_desc">Restaurez votre dernière file d'attente au démarrage de l'application</string>
+    <string name="auto_load_more">Charger automatiquement plus de chansons</string>
+    <string name="auto_load_more_desc">Ajoutez automatiquement plus de chansons lorsque la fin de la file d'attente est atteinte, si possible</string>
+    <string name="skip_silence">Ignorer le silence</string>
+    <string name="audio_normalization">Normalisation audio</string>
+    <string name="auto_skip_next_on_error">Passer automatiquement à la chanson suivante en cas d'erreur</string>
+    <string name="auto_skip_next_on_error_desc">Assurez votre expérience de lecture continue</string>
+    <string name="stop_music_on_task_clear">Arrêter la musique lorsque la tâche est terminée</string>
+    <string name="equalizer">Égaliseur</string>
 
     <string name="storage">Storage</string>
     <string name="cache">Cache</string>

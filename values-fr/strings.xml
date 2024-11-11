@@ -54,100 +54,100 @@
     <string name="no_results_found">Aucun résultat trouvé</string>
 
     <!-- Library -->
-    <string name="library_song_empty">Library songs will show up here</string>
-    <string name="library_artist_empty">Library artists will show up here</string>
-    <string name="library_album_empty">Library albums will show up here</string>
-    <string name="library_playlist_empty">Your playlists will show up here</string>
+    <string name="library_song_empty">Les titres de la bibliothèque s'afficheront ici</string>
+    <string name="library_artist_empty">Les artistes de la bibliothèque s'afficheront ici</string>
+    <string name="library_album_empty">Les albums de la bibliothèque s'afficheront ici</string>
+    <string name="library_playlist_empty">Vos playlists s'afficheront ici</string>
 
     <!-- Artist screen -->
-    <string name="from_your_library">From your library</string>
+    <string name="from_your_library">De votre bibliothèque</string>
 
     <!-- Album screen -->
-    <string name="other_versions">Other versions</string>
+    <string name="other_versions">Autres versions</string>
 
     <!-- Playlist -->
-    <string name="liked_songs">Liked songs</string>
-    <string name="downloaded_songs">Downloaded songs</string>
-    <string name="playlist_is_empty">The playlist is empty</string>
-    <string name="remove_download_playlist_confirm">Do you really want to remove all \"%s\" playlist songs from the Downloaded Songs storage?</string>
-    <string name="delete_playlist_confirm">Do you really want to delete the playlist \"%s\"?</string>
+    <string name="liked_songs">Titres aimés</string>
+    <string name="downloaded_songs">Titres téléchargés</string>
+    <string name="playlist_is_empty">La playlist est vide</string>
+    <string name="remove_download_playlist_confirm">Voulez-vous vraiment supprimer toutes les chansons de la playlist \"%s\" du stockage des chansons téléchargées ?</string>
+    <string name="delete_playlist_confirm">Voulez-vous vraiment supprimer la playlist « %s » ?</string>
 
     <!-- Button -->
-    <string name="retry">Retry</string>
+    <string name="retry">Réessayer</string>
     <string name="radio">Radio</string>
-    <string name="shuffle">Shuffle</string>
-    <string name="reset">Reset</string>
+    <string name="shuffle">Aléatoire</string>
+    <string name="reset">Réinitialiser</string>
 
     <!-- Menu -->
-    <string name="details">Details</string>
-    <string name="edit">Edit</string>
-    <string name="start_radio">Start radio</string>
-    <string name="play">Play</string>
-    <string name="play_next">Play next</string>
-    <string name="add_to_queue">Add to queue</string>
-    <string name="add_to_library">Add to library</string>
-    <string name="add_all_to_library">Add all to library</string>
-    <string name="remove_from_library">Remove from library</string>
-    <string name="remove_all_from_library">Remove all from library</string>
-    <string name="download">Download</string>
-    <string name="downloading">Downloading</string>
-    <string name="remove_download">Remove download</string>
-    <string name="import_playlist">Import playlist</string>
-    <string name="add_to_playlist">Add to playlist</string>
-    <string name="view_artist">View artist</string>
-    <string name="view_album">View album</string>
-    <string name="refetch">Refetch</string>
-    <string name="share">Share</string>
-    <string name="delete">Delete</string>
-    <string name="remove_from_history">Remove from history</string>
-    <string name="remove_from_playlist">Remove from playlist</string>
-    <string name="remove_from_queue">Remove from queue</string>
-    <string name="search_online">Search online</string>
-    <string name="sync">Sync</string>
-    <string name="advanced">Advanced</string>
-    <string name="tempo_and_pitch">Tempo and Pitch</string>
+    <string name="details">Détails</string>
+    <string name="edit">Modifier</string>
+    <string name="start_radio">Démarrer la radio</string>
+    <string name="play">Lecture</string>
+    <string name="play_next">Lecture suivante</string>
+    <string name="add_to_queue">Ajouter à la file d'attente</string>
+    <string name="add_to_library">Ajouter à la bibliothèque</string>
+    <string name="add_all_to_library">Ajouter tout à la bibliothèque</string>
+    <string name="remove_from_library">Supprimer de la bibliothèque</string>
+    <string name="remove_all_from_library">Supprimer tout de la bibliothèque</string>
+    <string name="download">Télécharger</string>
+    <string name="downloading">Téléchargement</string>
+    <string name="remove_download">Supprimer le téléchargement</string>
+    <string name="import_playlist">Importer une playlist</string>
+    <string name="add_to_playlist">Ajouter à la playlist</string>
+    <string name="view_artist">Voir l'artiste</string>
+    <string name="view_album">Voir l'album</string>
+    <string name="refetch">Récupérer</string>
+    <string name="share">Partager</string>
+    <string name="delete">Supprimer</string>
+    <string name="remove_from_history">Supprimer de l'historique</string>
+    <string name="remove_from_playlist">Supprimer de la playlist</string>
+    <string name="remove_from_queue">Supprimer de la file d'attente</string>
+    <string name="search_online">Recherche en ligne</string>
+    <string name="sync">Synchroniser</string>
+    <string name="advanced">Avancé</string>
+    <string name="tempo_and_pitch">Tempo and Pas</string>
 
     <!-- Sort menu -->
-    <string name="sort_by_create_date">Date added</string>
-    <string name="sort_by_name">Name</string>
-    <string name="sort_by_artist">Artist</string>
-    <string name="sort_by_year">Year</string>
-    <string name="sort_by_song_count">Song count</string>
-    <string name="sort_by_length">Length</string>
-    <string name="sort_by_play_time">Play time</string>
-    <string name="sort_by_custom">Custom order</string>
+    <string name="sort_by_create_date">Date d'ajout</string>
+    <string name="sort_by_name">Nom</string>
+    <string name="sort_by_artist">Artiste</string>
+    <string name="sort_by_year">Année</string>
+    <string name="sort_by_song_count">Nombre de chansons</string>
+    <string name="sort_by_length">Durée</string>
+    <string name="sort_by_play_time">Temps de lecture</string>
+    <string name="sort_by_custom">Commande personnalisée</string>
 
     <!-- Dialog -->
-    <string name="media_id">Media id</string>
-    <string name="mime_type">MIME type</string>
+    <string name="media_id">Identifiant du média</string>
+    <string name="mime_type">Type MIME</string>
     <string name="codecs">Codecs</string>
-    <string name="bitrate">Bitrate</string>
-    <string name="sample_rate">Sample rate</string>
-    <string name="loudness">Loudness</string>
+    <string name="bitrate">Débit binaire</string>
+    <string name="sample_rate">Taux d'échantillonnage</string>
+    <string name="loudness">Intensité</string>
     <string name="volume">Volume</string>
-    <string name="file_size">File size</string>
-    <string name="unknown">Unknown</string>
-    <string name="copied">Copied to clipboard</string>
+    <string name="file_size">Taille du fichier</string>
+    <string name="unknown">Inconnu</string>
+    <string name="copied">Copié dans le presse-papiers</string>
 
-    <string name="edit_lyrics">Edit lyrics</string>
-    <string name="search_lyrics">Search lyrics</string>
+    <string name="edit_lyrics">Modifier les paroles</string>
+    <string name="search_lyrics">Rechercher des paroles</string>
 
-    <string name="edit_song">Edit song</string>
-    <string name="song_title">Song title</string>
-    <string name="song_artists">Song artists</string>
-    <string name="error_song_title_empty">Song title cannot be empty.</string>
-    <string name="error_song_artist_empty">Song artist cannot be empty.</string>
-    <string name="save">Save</string>
+    <string name="edit_song">Modifier la chanson</string>
+    <string name="song_title">Titre de la chanson</string>
+    <string name="song_artists">Artiste de la chanson</string>
+    <string name="error_song_title_empty">Le titre de la chanson ne peut pas être vide</string>
+    <string name="error_song_artist_empty">L'artiste de la chanson ne peut pas être vide</string>
+    <string name="save">Sauvegarder</string>
 
-    <string name="choose_playlist">Choose playlist</string>
-    <string name="edit_playlist">Edit playlist</string>
-    <string name="create_playlist">Create playlist</string>
-    <string name="playlist_name">Playlist name</string>
-    <string name="error_playlist_name_empty">Playlist name cannot be empty.</string>
+    <string name="choose_playlist">Choisir une playlist</string>
+    <string name="edit_playlist">Modifier la playlist</string>
+    <string name="create_playlist">Créer une playlist</string>
+    <string name="playlist_name">Nom de la playlist</string>
+    <string name="error_playlist_name_empty">Le nom de la playlist ne peut pas être vide</string>
 
-    <string name="edit_artist">Edit artist</string>
-    <string name="artist_name">Artist name</string>
-    <string name="error_artist_name_empty">Artist name cannot be empty.</string>
+    <string name="edit_artist">Modifier l'artiste</string>
+    <string name="artist_name">Nom de l'artiste</string>
+    <string name="error_artist_name_empty">Le nom de l'artiste ne peut pas être vide</string>
 
     <string name="duplicates">Duplicates</string>
     <string name="skip_duplicates">Skip duplicates</string>

@@ -149,20 +149,20 @@
     <string name="artist_name">Nom de l'artiste</string>
     <string name="error_artist_name_empty">Le nom de l'artiste ne peut pas être vide</string>
 
-    <string name="duplicates">Duplicates</string>
-    <string name="skip_duplicates">Skip duplicates</string>
-    <string name="add_anyway">Add anyway</string>
-    <string name="duplicates_description_single">The song is already in your playlist</string>
-    <string name="duplicates_description_multiple">%d songs are already in your playlist</string>
+    <string name="duplicates">Doublons</string>
+    <string name="skip_duplicates">Ignorer les doublons</string>
+    <string name="add_anyway">Ajouter quand même</string>
+    <string name="duplicates_description_single">La chanson est déjà dans votre playlist</string>
+    <string name="duplicates_description_multiple">%d chansons sont déjà dans votre playlist</string>
 
     <!-- Noun -->
     <plurals name="n_song">
-        <item quantity="one">%d song</item>
-        <item quantity="other">%d songs</item>
+        <item quantity="one">%d chanson</item>
+        <item quantity="other">%d chansons</item>
     </plurals>
     <plurals name="n_artist">
-        <item quantity="one">%d artist</item>
-        <item quantity="other">%d artists</item>
+        <item quantity="one">%d artiste</item>
+        <item quantity="other">%d artistes</item>
     </plurals>
     <plurals name="n_album">
         <item quantity="one">%d album</item>
@@ -173,92 +173,92 @@
         <item quantity="other">%d playlists</item>
     </plurals>
     <plurals name="n_week">
-        <item quantity="one">%d week</item>
-        <item quantity="other">%d weeks</item>
+        <item quantity="one">%d semaine</item>
+        <item quantity="other">%d semaines</item>
     </plurals>
     <plurals name="n_month">
-        <item quantity="one">%d month</item>
-        <item quantity="other">%d months</item>
+        <item quantity="one">%d mois</item>
+        <item quantity="other">%d mois</item>
     </plurals>
     <plurals name="n_year">
-        <item quantity="one">%d year</item>
-        <item quantity="other">%d years</item>
+        <item quantity="one">%d année</item>
+        <item quantity="other">%d années</item>
     </plurals>
 
     <!-- Snackbar -->
-    <string name="playlist_imported">Playlist imported</string>
-    <string name="removed_song_from_playlist">Removed \"%s\" from playlist</string>
-    <string name="playlist_synced">Playlist synced</string>
-    <string name="undo">Undo</string>
+    <string name="playlist_imported">Playlist importée</string>
+    <string name="removed_song_from_playlist">Suppression de « %s » de la playlist</string>
+    <string name="playlist_synced">Playlist synchronisée</string>
+    <string name="undo">Annuler</string>
 
     <!-- Player -->
-    <string name="lyrics_not_found">Lyrics not found</string>
-    <string name="sleep_timer">Sleep timer</string>
-    <string name="end_of_song">End of song</string>
+    <string name="lyrics_not_found">Paroles non trouvées</string>
+    <string name="sleep_timer">Minuterie de sommeil</string>
+    <string name="end_of_song">Fin de la chanson</string>
     <plurals name="minute">
         <item quantity="one">1 minute</item>
         <item quantity="other">%d minutes</item>
     </plurals>
-    <string name="error_no_stream">No stream available</string>
-    <string name="error_no_internet">No network connection</string>
-    <string name="error_timeout">Timeout</string>
-    <string name="error_unknown">Unknown error</string>
+    <string name="error_no_stream">Aucun flux disponible</string>
+    <string name="error_no_internet">Pas de connexion réseau</string>
+    <string name="error_timeout">Temps mort</string>
+    <string name="error_unknown">Erreur inconnue</string>
 
     <!-- Player action -->
-    <string name="action_like">Like</string>
-    <string name="action_like_all">Like all</string>
-    <string name="action_remove_like">Remove like</string>
-    <string name="action_remove_like_all">Remove all likes</string>
-    <string name="action_shuffle_on">Shuffle on</string>
-    <string name="action_shuffle_off">Shuffle off</string>
-    <string name="repeat_mode_off">Repeat mode off</string>
-    <string name="repeat_mode_one">Repeat current song</string>
-    <string name="repeat_mode_all">Repeat queue</string>
+    <string name="action_like">Aime</string>
+    <string name="action_like_all">Tout Aimer</string>
+    <string name="action_remove_like">Supprimer le like</string>
+    <string name="action_remove_like_all">Supprimer tous les likes</string>
+    <string name="action_shuffle_on">Lecture aléatoire activée</string>
+    <string name="action_shuffle_off">Lecture aléatoire désactivée</string>
+    <string name="repeat_mode_off">Mode répétition désactivé</string>
+    <string name="repeat_mode_one">Répéter le titre en cours</string>
+    <string name="repeat_mode_all">Répéter la file d'attente</string>
 
     <!-- Queue Title -->
-    <string name="queue_all_songs">All songs</string>
-    <string name="queue_searched_songs">Searched songs</string>
+    <string name="queue_all_songs">Toutes les chansons</string>
+    <string name="queue_searched_songs">Chansons recherchées</string>
 
     <!-- Notification name -->
-    <string name="music_player">Music Player</string>
+    <string name="music_player">Lecteur de musique</string>
 
     <!-- Settings -->
-    <string name="settings">Settings</string>
-    <string name="appearance">Appearance</string>
-    <string name="theme">Theme</string>
-    <string name="enable_dynamic_theme">Enable dynamic theme</string>
-    <string name="dark_theme">Dark theme</string>
+    <string name="settings">Paramètres</string>
+    <string name="appearance">Apparence</string>
+    <string name="theme">Thème</string>
+    <string name="enable_dynamic_theme">Activer le thème dynamique</string>
+    <string name="dark_theme">Thème sombre</string>
     <string name="dark_theme_on">On</string>
     <string name="dark_theme_off">Off</string>
-    <string name="dark_theme_follow_system">Follow system</string>
-    <string name="pure_black">Pure black</string>
-    <string name="customize_navigation_tabs">Customize navigation tabs</string>
-    <string name="player">Player</string>
-    <string name="player_text_alignment">Player text alignment</string>
-    <string name="lyrics_text_position">Lyrics text position</string>
-    <string name="sided">Sided</string>
-    <string name="left">Left</string>
-    <string name="center">Center</string>
-    <string name="right">Right</string>
-    <string name="player_slider_style">Player slider style</string>
-    <string name="default_">Default</string>
-    <string name="squiggly">Squiggly</string>
-    <string name="misc">Misc</string>
-    <string name="default_open_tab">Default open tab</string>
-    <string name="grid_cell_size">Grid cell size</string>
-    <string name="small">Small</string>
-    <string name="big">Big</string>
+    <string name="dark_theme_follow_system">Suivre le système</string>
+    <string name="pure_black">Noir pur</string>
+    <string name="customize_navigation_tabs">Personnaliser les onglets de navigation</string>
+    <string name="player">Lecteur</string>
+    <string name="player_text_alignment">Alignement du texte du lecteur</string>
+    <string name="lyrics_text_position">Position du texte des paroles</string>
+    <string name="sided">Côté</string>
+    <string name="left">Gauche</string>
+    <string name="center">Centre</string>
+    <string name="right">Droite</string>
+    <string name="player_slider_style">Style de curseur du lecteur</string>
+    <string name="default_">Défaut</string>
+    <string name="squiggly">Ondulé</string>
+    <string name="misc">Divers</string>
+    <string name="default_open_tab">Onglet ouvert par défaut</string>
+    <string name="grid_cell_size">Taille des cellules de la grille</string>
+    <string name="small">Petites</string>
+    <string name="big">Grosses</string>
 
-    <string name="content">Content</string>
-    <string name="login">Login</string>
-    <string name="not_logged_in">Not logged in</string>
-    <string name="content_language">Default content language</string>
-    <string name="content_country">Default content country</string>
-    <string name="system_default">System default</string>
-    <string name="enable_proxy">Enable proxy</string>
-    <string name="proxy_type">Proxy type</string>
-    <string name="proxy_url">Proxy URL</string>
-    <string name="restart_to_take_effect">Restart to take effect</string>
+    <string name="content">Contenu</string>
+    <string name="login">Se connecter</string>
+    <string name="not_logged_in">Non connecté</string>
+    <string name="content_language">Langue de contenu par défaut</string>
+    <string name="content_country">Pays de contenu par défaut</string>
+    <string name="system_default">Système par défaut</string>
+    <string name="enable_proxy">Activer le proxy</string>
+    <string name="proxy_type">Type de proxy</string>
+    <string name="proxy_url">URL du proxy</string>
+    <string name="restart_to_take_effect">Redémarrer pour prendre effet</string>
 
     <string name="player_and_audio">Player and audio</string>
     <string name="audio_quality">Audio quality</string>

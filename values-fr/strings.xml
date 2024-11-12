@@ -298,36 +298,36 @@
     <string name="search_history">Historique de recherche</string>
     <string name="pause_search_history">Suspendre l'historique de recherche</string>
     <string name="clear_search_history">Effacer l'historique de recherche</string>
-    <string name="clear_search_history_confirm">Are you sure you want to clear all search history?</string>
-    <string name="use_login_for_browse">Use login for browsing content</string>
-    <string name="use_login_for_browse_desc">This can influence what content you see and for example shows premium-only albums if you are logged in with a Premium account</string>
-    <string name="disable_screenshot">Disable screenshot</string>
-    <string name="disable_screenshot_desc">When this option is on, screenshots and the app\'s view in Recents are disabled.</string>
-    <string name="enable_lrclib">Enable LrcLib lyrics provider</string>
-    <string name="enable_kugou">Enable KuGou lyrics provider</string>
-    <string name="hide_explicit">Hide explicit content</string>
+    <string name="clear_search_history_confirm">Êtes-vous sûr de vouloir effacer tout l’historique de recherche ?</string>
+    <string name="use_login_for_browse">Utiliser la connexion pour parcourir le contenu</string>
+    <string name="use_login_for_browse_desc">Cela peut influencer le contenu que vous voyez et, par exemple, afficher des albums uniquement premium si vous êtes connecté avec un compte Premium</string>
+    <string name="disable_screenshot">Désactiver la capture d'écran</string>
+    <string name="disable_screenshot_desc">Lorsque cette option est activée, les captures d'écran et l'affichage de l'application dans Récents sont désactivés.</string>
+    <string name="enable_lrclib">Activer le fournisseur de paroles LrcLib</string>
+    <string name="enable_kugou">Activer le fournisseur de paroles de KuGou</string>
+    <string name="hide_explicit">Masquer le contenu explicite</string>
 
-    <string name="backup_restore">Backup and restore</string>
-    <string name="backup">Backup</string>
-    <string name="restore">Restore</string>
-    <string name="imported_playlist">Imported playlist</string>
-    <string name="backup_create_success">Backup created successfully</string>
-    <string name="backup_create_failed">Couldn\'t create backup</string>
-    <string name="restore_failed">Failed to restore backup</string>
+    <string name="backup_restore">Sauvegarde et Restauration</string>
+    <string name="backup">Sauvegarde</string>
+    <string name="restore">Restauration</string>
+    <string name="imported_playlist">Playlist importée</string>
+    <string name="backup_create_success">Sauvegarde créée avec succès</string>
+    <string name="backup_create_failed">Impossible de créer une sauvegarde</string>
+    <string name="restore_failed">Impossible de restaurer la sauvegarde</string>
 
-    <string name="discord_integration">Discord Integration</string>
-    <string name="discord_information">InnerTune uses the KizzyRPC library to set your Discord account\'s status. This involves using the Discord Gateway connection, which may be considered a violation of Discord\'s TOS. However, there are no known cases of user accounts being suspended for this reason. Use at your own risk.\n\nInnerTune will only extract your token, and everything else is stored locally.</string>
-    <string name="dismiss">Dismiss</string>
+    <string name="discord_integration">Intégration de Discord</string>
+    <string name="discord_information">InnerTune utilise la bibliothèque KizzyRPC pour définir le statut de votre compte Discord. Cela implique l'utilisation de la connexion Discord Gateway, ce qui peut être considéré comme une violation des conditions d'utilisation de Discord. Cependant, il n'existe aucun cas connu de comptes d'utilisateurs suspendus pour cette raison. Utilisez-le à vos propres risques. InnerTune extraira uniquement votre jeton, et tout le reste sera stocké localement.</string>
+    <string name="dismiss">Rejeter</string>
     <string name="options">Options</string>
-    <string name="preview">Preview</string>
-    <string name="login_failed">Login failed</string>
-    <string name="logout">Logout</string>
-    <string name="enable_discord_rpc">Enable Rich Presence</string>
+    <string name="preview">Aperçu</string>
+    <string name="login_failed">La connexion a échoué</string>
+    <string name="logout">Déconnexion</string>
+    <string name="enable_discord_rpc">Activer la présence enrichie</string>
 
-    <string name="about">About</string>
-    <string name="app_version">App version</string>
+    <string name="about">À propos</string>
+    <string name="app_version">Version de l'application</string>
 
-    <string name="new_version_available">New version available</string>
-    <string name="translation_models">Translation Models</string>
-    <string name="clear_translation_models">Clear translation models</string>
+    <string name="new_version_available">Nouvelle version disponible</string>
+    <string name="translation_models">Modèles de traduction</string>
+    <string name="clear_translation_models">Effacer les modèles de traduction</string>
 </resources>
